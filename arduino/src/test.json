@@ -1,0 +1,28 @@
+[
+	{
+		"type": "reading",
+		"id": "2012",
+		"device": "Arduino",
+		"timestamp": "1970-01-01T00:00:02Z",
+		"readings": [
+			{ "sensor": "DHT22", "value": 27.5, "unit": "Celsius", "status": "ok" },
+			{ "sensor": "DHT22", "value": 62.9, "unit": "percent", "status": "ok" },
+			{ "sensor": "LDR", "value": 532.0, "unit": "lux", "status": "ok" },
+			{ "sensor": "LED 1", "value": 0.0, "unit": null, "status": "ok" }
+		],
+		"status": "unknown"
+	},
+	{
+		"type": "reading",
+		"id": "4592",
+		"device": "Arduino",
+		"timestamp": "1970-01-01T00:00:04Z",
+		"readings": [
+			{ "sensor": "DHT22", "value": 27.4, "unit": "Celsius", "status": "ok" },
+			{ "sensor": "DHT22", "value": 62.8, "unit": "percent", "status": "ok" },
+			{ "sensor": "LDR", "value": 531.0, "unit": "lux", "status": "ok" },
+			{ "sensor": "LED 1", "value": 0.0, "unit": null, "status": "ok" }
+		],
+		"status": "unknown"
+	}
+]
