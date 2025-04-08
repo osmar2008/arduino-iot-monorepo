@@ -30,3 +30,77 @@
 *.exe
 *.out
 *.app
+
+# PlatformIO and VSCode
+.pio
+.vscode
+
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Generated files
+*.iml
+*.log
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+# Gradle Wrapper
+gradle-wrapper.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.ipr
+out/
+
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+.DS_Store
